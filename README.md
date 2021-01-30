@@ -1,5 +1,7 @@
 # Nordic keyboard layouts for programming
 
+![Nordic keyboard layouts for programming](./header_image.svg)
+
 This is a collection keyboard layout modifications which make the Nordic keyboard a bit more friendlier for programming. The layout brings parts of the US keyboard layout into the Nordic keyboard layout to make programming-specific special characters more accessible, such as the brackets and curly brace characters.
 
 Featured layouts:
