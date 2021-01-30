@@ -2,7 +2,7 @@
 
 ![Nordic keyboard layouts for programming](./header_image.svg)
 
-This is a collection keyboard layout modifications which make the Nordic keyboard a bit more friendlier for programming. The layout brings parts of the US keyboard layout into the Nordic keyboard layout to make programming-specific special characters more accessible, such as the brackets and curly brace characters.
+This is a collection of keyboard layout modifications which change the Finnish, Swedish and Estonian keyboard layouts to a programming friendlier alternative. The layout brings parts of the US keyboard layout into the Nordic keyboard layout to make programming-specific special characters more accessible, such as the brackets and curly braces.
 
 Featured layouts:
 - finnish_dev_layout: For Finnish speaking Finns. Sacrifices the `Å` and scarcely used `¨` key to support US like bracket/braces keys. Also adds a more convenient `AltGr+Å` and `AltGr+¨` to create parenthesis. Moves caret and tilde to AltGr+ä and AltGr+' respectively. 
