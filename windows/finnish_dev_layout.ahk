@@ -7,6 +7,9 @@
 å::[
 ¨::]
 <^>!'::~
-CapsLock::LCtrl
 <^>!ä::Send, {^}
+<^>!,::Send, <
+<^>!.::Send, >
+<^>!-::Send, |
 ¤::Send, $
+CapsLock::LCtrl
