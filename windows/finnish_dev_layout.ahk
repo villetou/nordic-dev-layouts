@@ -12,4 +12,3 @@
 <^>!.::Send, >
 <^>!-::Send, |
 ¤::Send, $
-CapsLock::LCtrl
